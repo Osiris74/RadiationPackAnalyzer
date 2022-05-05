@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="RadiationPackAnalyzer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="74" Y="13"/>
+        <UsageCount Value="82"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="systemsleepunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SystemSleepUnit"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="26"/>
+        <UsageCount Value="39"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="MyComm.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="134"/>
+        <CursorPos X="73" Y="139"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="Serial_Port.dfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="Serial_Port.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="234"/>
+        <CursorPos X="62" Y="252"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\components\TLazSerial\lazserial.pas"/>
+        <UnitName Value="LazSerial"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="483"/>
+        <CursorPos Y="494"/>
+        <UsageCount Value="15"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="93"/>
+        <CursorPos X="10" Y="113"/>
+        <UsageCount Value="4"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\sysutils\sysunih.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="40"/>
+        <UsageCount Value="13"/>
+      </Unit7>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="193" TopLine="161"/>
+      </Position1>
+      <Position2>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="191" TopLine="161"/>
+      </Position2>
+      <Position3>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="193" TopLine="161"/>
+      </Position3>
+      <Position4>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="191" TopLine="161"/>
+      </Position4>
+      <Position5>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="193" TopLine="161"/>
+      </Position5>
+      <Position6>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="191" TopLine="161"/>
+      </Position6>
+      <Position7>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="193" TopLine="161"/>
+      </Position7>
+      <Position8>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="191" TopLine="161"/>
+      </Position8>
+      <Position9>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="193" TopLine="161"/>
+      </Position9>
+      <Position10>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="191" TopLine="161"/>
+      </Position10>
+      <Position11>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="193" TopLine="158"/>
+      </Position11>
+      <Position12>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="168" TopLine="157"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Serial_Port.pas"/>
+        <Caret Line="130" TopLine="100"/>
+      </Position13>
+      <Position14>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="168" TopLine="157"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Serial_Port.pas"/>
+        <Caret Line="130" TopLine="100"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Serial_Port.pas"/>
+        <Caret Line="132" TopLine="100"/>
+      </Position16>
+      <Position17>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="168" TopLine="155"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Serial_Port.pas"/>
+        <Caret Line="130" TopLine="100"/>
+      </Position18>
+      <Position19>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="142" Column="42" TopLine="109"/>
+      </Position19>
+      <Position20>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="131" Column="13" TopLine="115"/>
+      </Position20>
+      <Position21>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="129" Column="37" TopLine="105"/>
+      </Position21>
+      <Position22>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="127" Column="47" TopLine="105"/>
+      </Position22>
+      <Position23>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="152" Column="24" TopLine="134"/>
+      </Position23>
+      <Position24>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="153" Column="15" TopLine="129"/>
+      </Position24>
+      <Position25>
+        <Filename Value="MyComm.pas"/>
+        <Caret Line="129" Column="56" TopLine="117"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Serial_Port.pas"/>
+        <Caret Line="128" Column="23" TopLine="114"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Serial_Port.pas"/>
+        <Caret Line="237" Column="36" TopLine="196"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Serial_Port.pas"/>
+        <Caret Line="244" Column="36" TopLine="205"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Serial_Port.pas"/>
+        <Caret Line="17" Column="42"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="6">
+      <Item1>
+        <Expression Value="LogFileName"/>
+      </Item1>
+      <Item2>
+        <Expression Value="Pos('.', LogFileName)"/>
+      </Item2>
+      <Item3>
+        <Expression Value="tmp"/>
+      </Item3>
+      <Item4>
+        <Expression Value="buf[i]"/>
+      </Item4>
+      <Item5>
+        <Expression Value="s"/>
+      </Item5>
+      <Item6>
+        <Expression Value="msg.s"/>
+      </Item6>
+    </Watches>
+  </Debugging>
+</CONFIG>
